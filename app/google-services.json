@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122685726824",
+    "project_id": "randomduck-33bbc",
+    "storage_bucket": "randomduck-33bbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122685726824:android:072e2ed49d7c67f2691bdd",
+        "android_client_info": {
+          "package_name": "com.example.randomduck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ8TW1TBTo3i6glMvhwDDdUD3bBky6fio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RandomDuck</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Login Username</string>
+    <string name="password">Login Password</string>
+    <string name="login_header">RandomDuck</string>
+    <string name="create_account">Create an Account</string>
+
+
+</resources>
